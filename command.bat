@@ -1,3 +1,5 @@
 @echo off
+REM Remove old files
+rd /s /q c:\jmaddington
 REM Extracts contents of tools.zip to C:\jmaddington
-7z e -oc:\jmaddington tools.zip -aoa
+7z x -oc:\jmaddington tools.zip -aoa
