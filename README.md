@@ -13,7 +13,7 @@ Run repackage.bat, which will zip up the tools into tools.zip and create the AEM
 Finally, upload the component to AEM.
 
 # How to alter #
-If you're another MSP who wants to use this commponent, change the output directory in the final line of command.bat to reflect your own name, or desired directory.
+If you're another MSP who wants to use this component, change the output directory in the final line of command.bat to reflect your own name, or desired directory.
 
 # Notes #
 The extraction will overwrite any existing files in the directory. It WILL REMOVE old files.
