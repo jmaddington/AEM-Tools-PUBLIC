@@ -16,4 +16,4 @@ Finally, upload the component to AEM.
 If you're another MSP who wants to use this commponent, change the output directory in the final line of command.bat to reflect your own name, or desired directory.
 
 # Notes #
-The extraction will overwrite any existing files in the directory. It will NOT remove old files.
+The extraction will overwrite any existing files in the directory. It WILL REMOVE old files.
